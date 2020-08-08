@@ -1,0 +1,80 @@
+User Interface Design & Implementation 2020
+Lab 1: HTML and CSS
+Overview
+Required Resources
+References
+Exercise 0: Build Dog's website from scratch
+Exercise 1: Make the page your own
+Exercise 2: Style your page using Chrome Inspector (F12) or FireBug
+Exercise 3: Add and style a table of courses
+Exercise 4: Positioning
+Exercise 5: Add a Form
+Exercise 6: Codecademy Exercises
+Lab 1: HTML and CSS
+This lab was held on Thursday, February 4, 2016 at 7:30 P.M. in 32-082.
+This is a non-compulsory programming lab to introduce students to webpage building with HTML and CSS.
+View the source of this page to see a nicely documented solution to the exercises below.
+
+Last Updated: Sat,08 August,2020,11:20pm
+
+Overview
+In this programming lab, you will be completing a series of exercises that will help you structure and style web pages. Here's a picture of what your webpage will look like when you're done.
+
+
+Required Resources
+You will need a a text editor, preferably with syntax highlighting. We recommend using Sublime Text, available on OS X, Windows and Linux.
+
+References
+Helpful videos selected by TAs
+HTML reference
+CSS reference
+A condensed CSS primer by 6.831 staff (It is a Google Presentation, and comments are allowed.)
+Exercise 0: Build Dog's website from scratch
+For this exercise, open up your text editor and follow along with what we do on the projector. Starting from a blank file, we will:
+Use basic HTML tags to define the overall structure of a web page.
+Add some text content to the web page.
+Add an image to the web page.
+Separate the web page into sections and give each section a heading.
+Apply some basic style to the sections using CSS rules.
+Featured videos:    Introduction to styling with CSS
+Exercise 1: Make the page your own
+Modify the page's content to make it your own website.
+Replace the name in the page's title with your own.
+Replace the interests listed with your own.
+Replace the picture of Dog with a picture of yourself.
+Exercise 2: Style your page using Chrome Inspector (F12) or FireBug
+Use the Chrome Inspector or Firebug to inspect your elements and play with CSS rules. Here is a good reference on CSS selectors.
+
+Change heading fonts to Georgia and color them maroon.
+Make links colored differently when you hover and have visited them.
+Featured videos:    Adding Style Rules Using Google Chrome Developer Tools
+Exercise 3: Add and style a table of courses
+Modify the page to include a table of courses you are taking and have taken. Here are some examples of simple tables. Your table should have:
+
+three columns: course number, course title, and semester taken
+two vertical sections, with headers for courses taken 'For Credit' and as 'Listener'
+alternating row background colors, so it's easy to read
+green colored text if the class is currently being taken
+Featured videos:    HTML Website Tables & Layouts Tutorial
+
+It should look something like this:
+
+
+Exercise 4: Positioning
+Use Inspector/Firebug to try different layouts using the CSS position directive. Move your picture, interests and course info around. Here's a reference on CSS positioning. Put your picture on the right and the rest of your info on the left.
+
+Featured videos:
+CSS Absolute and Relative Positioning Tutorial
+Making Divs Side by Side using CSS
+It should look something like this:
+
+Exercise 5: Add a Form
+Add a form which visitors of your website can use to submit information about their pet. Here's a reference on forms.
+
+Add textboxes for the pet's name, gender and phylum.
+Add a Submit button.
+Featured videos:    How to create forms in HTML5
+
+Exercise 6: Codecademy Exercises
+Do the projects on the Codecademy website.
+GDC Chintapalli Visakhapatnam District
